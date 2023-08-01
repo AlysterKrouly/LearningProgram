@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj": {}
+    "c:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj": {
+    "c:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj",
         "projectName": "Examples001_HelloWorld",
-        "projectPath": "C:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj",
+        "projectPath": "c:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\Examples001_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Alyster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\Alyster\\Desktop\\Program languages\\Examples\\Examples001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alyster\\AppData\\Roaming\\NuGet\\NuGet.Config"
